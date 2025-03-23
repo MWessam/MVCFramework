@@ -127,6 +127,10 @@ public abstract class View<T> : MonoBehaviour, IView
     {
         EventBus<OnButtonAction>.Raise(new OnButtonAction(action, controller));
     }
+
+    protected void BackButton()
+    {
+    }
 }
 
 internal struct OnButtonAction : IEvent

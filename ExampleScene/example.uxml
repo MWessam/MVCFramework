@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/ThirdParty/MVC/ExampleScene/example.uss?fileID=7433441132597879392&amp;guid=76b98640bd7adcc4cb921e257a14f03f&amp;type=3#example" />
+    <ui:VisualElement name="LoginView" class="view-panel" style="justify-content: center;">
+        <ui:TextField name="UsernameInput" placeholder="Username" />
+        <ui:Button name="LoginButton" text="Login" />
+    </ui:VisualElement>
+    <ui:VisualElement name="MainView" class="view-panel" style="display: none; justify-content: center;">
+        <ui:Button name="BackButton" text="Back" style="position: absolute; top: 0;" />
+        <ui:Label name="Username" text="Username" style="align-self: center;" />
+    </ui:VisualElement>
+</ui:UXML>
