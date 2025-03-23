@@ -1,0 +1,16 @@
+{
+    "name": "MVC",
+    "rootNamespace": "",
+    "references": [
+        "GUID:939445d3ad114cbda4926e5754bf27db"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

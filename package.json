@@ -1,0 +1,10 @@
+﻿{
+  "name": "com.mwessam.mvcframework",
+  "version": "0.1",
+  "displayName": "MVC Framework",
+  "description": "Simplify mvc workflow.",
+  "dependencies":
+  {
+  }
+}
+  
